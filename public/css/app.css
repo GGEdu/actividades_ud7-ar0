@@ -1,0 +1,23 @@
+h1, h2, h3, a, .navbar-brand, .personal-icon{
+    color: #c5a072;
+}
+
+.personal-icon{
+    text-shadow: 4px 4px 10px #000000;
+}
+.personal-icon-small{
+    font-size: 3rem;
+}
+
+.personal-icon-big{
+    font-size: 5rem;
+}
+
+.card-title{
+    font-size: 20px;
+}
+
+a>p{
+    font-size: 16px;
+    margin: 0;
+}
